@@ -53,6 +53,8 @@ Questions ask the paramedic, Oussama
 
 We are cleaing Natrual Langauge Processing for data and made toknizers. 
 Classify each type of data to a list.
+## Contact : 
+oussamaothmani16@gmail.com
 
 ## Future work : 
 
